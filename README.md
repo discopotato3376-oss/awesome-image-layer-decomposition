@@ -68,7 +68,7 @@ Hosted products that take an upload and return layers. Prices and limits change;
 | **MuLAn** (CVPR 2024) | 44K+ multi-layer annotations, 100K+ instance images | RGB images decomposed into instance-wise RGBA layers with occluded areas completed, built with a training-free pipeline | [Project](https://mulan-dataset.github.io/) · [arXiv 2404.02790](https://arxiv.org/abs/2404.02790) |
 | **PrismLayers / PrismLayersPro** | 200K / 20K multi-layer transparent images | Open data with accurate alpha mattes, plus the ART+ generation model | [Project](https://prism-layers.github.io/) · [arXiv 2505.22523](https://arxiv.org/html/2505.22523v1) |
 | **Crello** | 20K+ | Vector graphic design documents with layer structure (used as a layered-design benchmark) | via [LayerD](https://arxiv.org/abs/2509.25134) |
-| **LayerGrab samples** | 4 real splits, more coming | Original, filled background, every layer and a JSON manifest with names and boxes, CC BY 4.0 | [github.com/layergrab/layergrab-samples](https://github.com/layergrab/layergrab-samples) |
+| **LayerGrab samples** | 6 real splits | Original, filled background, every layer and a JSON manifest with names and boxes, CC BY 4.0 | [github.com/layergrab/layergrab-samples](https://github.com/layergrab/layergrab-samples) |
 
 ## Papers
 
