@@ -46,6 +46,7 @@ Hosted products that take an upload and return layers. Prices and limits change;
 | **LlamaGen AI Layer Splitter** | Web | Separate layers keeping layout and hierarchy | | [llamagen.ai](https://llamagen.ai/features/ai-layer-splitter) |
 | **RoboNeo Split Layer** | Web | Foreground and background layers | | [roboneo.com](https://www.roboneo.com/split-layer) |
 | **magiclayers.net** | Web | Named transparent PNG layers | 2 credits per output image incl. base; plans from $29/month for up to 200 layers (as listed 2026-09-28) | [magiclayers.net](https://magiclayers.net/) |
+| **Image2Layer** | Web | Auto or 2–10 transparent layers per run over a rebuilt background; layered PSD, transparent PNG layers or ZIP | Targeted Layer extracts one named object; any layer can be split again; paid, 8 credits per layer, packs from $3.99, free trial | [image2layer.com](https://image2layer.com/) |
 | **imagetolayers.com** | Web | PNG, ZIP or layered PSD; reconstructs the background behind the subject | States 60–120 s per image | [imagetolayers.com](https://www.imagetolayers.com/) |
 | **ImageLayered** | Web | Transparent, editable layers | States that it builds on Qwen-Image-Layered | [imagelayered.com](https://imagelayered.com/) |
 | **PixMind image layers** | Web | Split images, export layered | | [pixmind.io](https://www.pixmind.io/ai-tools/image-tools/image-layers) |
